@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Roadmap to Data Scientist**
 
-- 📫 How to reach me **(shubhamjog7@gmail.com)**
+- 📫 How to reach me **shubhamjog7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1B5TUWdxRJCxOGwqHVM2jzcvXYMhpoKl5/view?usp=sharing](https://drive.google.com/file/d/1B5TUWdxRJCxOGwqHVM2jzcvXYMhpoKl5/view?usp=sharing)
 
