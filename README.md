@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhamjog7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B5TUWdxRJCxOGwqHVM2jzcvXYMhpoKl5/view?usp=sharing](https://drive.google.com/file/d/1B5TUWdxRJCxOGwqHVM2jzcvXYMhpoKl5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1o4T53kaxx79OD3zAIerkRFN30YGU-94b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
