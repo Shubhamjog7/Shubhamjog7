@@ -1,15 +1,17 @@
 <h1 align="center">Hola, I'm Shubham Jog</h1>
 <h3 align="center">Passionate problem solver and tech enthusiast</h3>
 
-- 🔭 I’m currently working on **Energy consumption project**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamjog7&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhamjog7" /> </p>
 
-- 🌱 I’m currently learning **NLP, Deep Learning**
+- 🔭 I’m currently working on **Machine Learning, Big Data & Data Visualization Projects**
+
+- 🛩️ Exploring **NLP, Deep Learning, CNN**
 
 - 👯 I’m looking to collaborate on **Github**
 
 - 🤝 I’m looking for help with **Latest trends in Data Science**
 
-- 💬 Ask me about **Roadmap to Data Scientist**
+- 💬 Ask me about **topics = [ "Python+PySpark", "SQL", "Statistics", "PowerBi", "ETL-Azure Cloud","Big Data","Machine Learning" ]**
 
 - 📫 How to reach me **shubhamjog7@gmail.com**
 
