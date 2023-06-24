@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1o4T53kaxx79OD3zAIerkRFN30YGU-94b)
   
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhamjog7) / [Twitter](https://twitter.com/Jog4Jog_)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhamjog7) / [Twitter](https://twitter.com/Jog4Jog)
  
 - ⚡ Fun fact: :hearts: Trekking 🧗:  Travelling :earth_asia:  Basketball :basketball:
 
