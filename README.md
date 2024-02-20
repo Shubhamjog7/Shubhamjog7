@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Latest trends in Data Science**
 
-- 💬 Ask me about **topics = [ "Python+PySpark", "SQL", "Statistics", "PowerBi", "ETL-Azure Cloud","Big Data","Machine Learning" ]**
+- 💬 Ask me about **topics = ["Python+PySpark", "SQL", "Statistics", "PowerBi", "ETL-Azure Cloud","Big Data","Machine Learning"]**
 
 - 📫 How to reach me **shubhamjog7@gmail.com**
 
